@@ -2,9 +2,9 @@
 
 ###README
 
-m×n行の2値配列をランダムで作って返します。
+Random M×N binary matrix generator.
 
-#####サンプル
+#####Sample
 
     a = binary_matrix_generator(4, 5) 
 		
